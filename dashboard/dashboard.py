@@ -4,7 +4,7 @@ import seaborn as sns
 import streamlit as st
 
 # Load dataset
-clean_df = pd.read_csv('clean_df.csv')
+clean_df = pd.read_csv('dashboard/clean_df.csv')
 
 # Judul (Header)
 st.set_page_config(page_title="Dashboard Bike Sharing", page_icon="🚴", layout="wide")
