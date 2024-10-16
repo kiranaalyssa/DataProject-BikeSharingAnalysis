@@ -13,7 +13,7 @@ mkdir proyek_analisis_data_bike-sharing
 cd proyek_analisis_data_bike-sharing
 pipenv install
 pipenv shell
-jupter-notebook
+jupyter-notebook
 ```
 
 ## Run steamlit app
