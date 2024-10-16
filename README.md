@@ -1,4 +1,4 @@
-# ProjectData-BikeSharingAnalysis
+# Project Data - Bike Sharing Analysis
 🚴‍♀️ About the Project:
 This project was created as part of completing the Dicoding certification class "Belajar Analisis Data dengan Python."
 
