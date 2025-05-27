@@ -40,7 +40,7 @@ Based on the dashboard built with Streamlit, here are some key insights:
 5. Fall is the season with the highest number of bike-sharing users, followed by summer.
 6. In clear weather, both casual and registered users tend to use bike-sharing more.
 7. When the wind speed is low (between 0.05–0.18), more people still use bikes, compared to when the wind speed is higher.
-8. 
+
 Overall, the visualizations in this dashboard show user behavior and patterns for both 2011 and 2012.
 
 ## Recommended Action Items
