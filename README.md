@@ -32,6 +32,7 @@ streamlit run dashboard.py
 
 ## Conclusion
 Based on the dashboard built with Streamlit, here are some key insights:
+
 1. In 2012, the number of bike-sharing users increased significantly compared to 2011. This can be seen from the higher number of registered users compared to casual users.
 2. The highest bike-sharing usage in 2011 happened in June (month 6), while in 2012 it peaked in September (month 9).
 3. Bike usage is much higher on working days than on holidays.
@@ -39,6 +40,7 @@ Based on the dashboard built with Streamlit, here are some key insights:
 5. Fall is the season with the highest number of bike-sharing users, followed by summer.
 6. In clear weather, both casual and registered users tend to use bike-sharing more.
 7. When the wind speed is low (between 0.05–0.18), more people still use bikes, compared to when the wind speed is higher.
+8. 
 Overall, the visualizations in this dashboard show user behavior and patterns for both 2011 and 2012.
 
 ## Recommended Action Items
